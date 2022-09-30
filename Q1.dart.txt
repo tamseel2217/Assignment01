@@ -1,0 +1,11 @@
+void main() {
+  print("Tamseel Ahmed Khan");
+  int length=5;
+  print("Length = $length");
+  int breath=7;
+  print("Breath = $breath");
+  //Area of Rectangle = Legth x Breath
+  print("Area of Rectangle = ${length * breath}");
+}
+
+
